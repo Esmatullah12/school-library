@@ -32,7 +32,7 @@ School Library: Built for school libraries, it is user-friendly program employs 
 ### Key Features <a name="key-features"></a>
 
 - Add new Students
-- Add nes Teacher
+- Add new Teacher
 - Add Books
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
